@@ -1,13 +1,16 @@
 {
   "name": "LOWTAPERFADE",
   "symbol": "LTF",
-  "uri": "https://raw.githubusercontent.com/duncanheck/LOWTAPERFADE/main/assets/lowtaper.jpg",
+  "uri": "https://raw.githubusercontent.com/duncanheck/LOWTAPERFADE/main/LOWTAPERFADE.json",
   "sellerFeeBasisPoints": 0,
   "creators": [
     {
       "address": "8rD71S2jVP9CJ9FbDAz78VLQ4LQDCvGuJZo5p6DNQ6TP",
       "verified": true,
-      "share": 100
+      "share": 51
     }
-  ]
+  ],
+  "isMutable": true,
+  "isSequential": true,
+  "number": 1
 }
