@@ -3,7 +3,7 @@
   "symbol": "LTF",
   "uri": "https://raw.githubusercontent.com/duncanheck/LOWTAPERFADE/main/LOWTAPERFADE.json",
   "sellerFeeBasisPoints": 0,
-  "creators": [
+  "creators": [ 1
     {
       "address": "8rD71S2jVP9CJ9FbDAz78VLQ4LQDCvGuJZo5p6DNQ6TP",
       "verified": true,
