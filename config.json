@@ -3,13 +3,14 @@
   "symbol": "LTF",
   "uri": "https://raw.githubusercontent.com/duncanheck/LOWTAPERFADE/main/LOWTAPERFADE.json",
   "sellerFeeBasisPoints": 0,
-  "creators": [ 1
+  "creators": [
     {
       "address": "8rD71S2jVP9CJ9FbDAz78VLQ4LQDCvGuJZo5p6DNQ6TP",
       "verified": true,
-      "share": 51
+      "share": 100
     }
   ],
   "isMutable": true,
-  "isSequential": true
+  "isSequential": true,
+  "number": 1000
 }
